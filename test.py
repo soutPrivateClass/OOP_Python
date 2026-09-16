@@ -11,5 +11,7 @@ class Car :
 
 
 vehicle1 = Car("Toyota", "Red", 2020, "Manual", 150)
+vehicle2 = Car("Honda", "Blue", 2021, "Automatic", 200)
 
 vehicle1.speed(300)
+vehicle2.speed(250)
